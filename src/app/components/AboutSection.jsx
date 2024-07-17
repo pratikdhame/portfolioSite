@@ -23,7 +23,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Bachelor's in Information Technology from VIT, Pune</li>
+        <li>Bachelors in Information Technology from VIT, Pune</li>
         <li>Diploma in Computer Engineering from Y.B Patil Polytechnic, Pune</li>
       </ul>
     ),
@@ -57,7 +57,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg" align="justify">  
-          I'm Pratik Dhame, an IT student at Vishwakarma Institute of Technology, Pune, specializing in MERN stack development. My expertise spans web applications, including an e-commerce platform and real-time chat application, built with ReactJs, NodeJs, and MongoDB. Proficient in OOP, data structures, and SQL databases, I excel in creating scalable solutions. I've integrated JWT for secure authentication, employed Zustand for state management, and optimized UX with TailwindCSS. Adept with AWS Cloud and Git, I thrive on solving challenges and delivering efficient, user-centric software solutions.
+          Im Pratik Dhame, an IT student at Vishwakarma Institute of Technology, Pune, specializing in MERN stack development. My expertise spans web applications, including an e-commerce platform and real-time chat application, built with ReactJs, NodeJs, and MongoDB. Proficient in OOP, data structures, and SQL databases, I excel in creating scalable solutions. I have integrated JWT for secure authentication, employed Zustand for state management, and optimized UX with TailwindCSS. Adept with AWS Cloud and Git, I thrive on solving challenges and delivering efficient, user-centric software solutions.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
